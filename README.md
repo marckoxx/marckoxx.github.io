@@ -1,8 +1,3 @@
-# The More You Know
-A list of things that you should know, especially during this day and age.
-> Also basically a summary of what I know. But if you wanna contribute though, just make a pull request or issue.
-
-
 Table of contents
 =================
 
