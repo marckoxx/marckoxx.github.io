@@ -5,7 +5,9 @@ Table of contents
 * [Wikis/Megathreads/Awesome Github Repos](#wikis-megathreads-awesome-github-repos)
   * [Awesome](#awesome)
   * [Reddit](#reddit)
+  * [4chan](#4chan)
   * [Others](#others)
+
   
 * [Privacy/Anonymity/Security](#privacy-anonymity-security)
   * [Privacy](#privacy)
@@ -40,22 +42,40 @@ Table of contents
   * [r/FreeMediaHeckYeah Wiki](https://www.reddit.com/r/freemediaheckyeah/wiki) - Who doesn't like free stuff??? You can find a LOT of useful information and resources here. Highly recommended to check out.
   * [r/FreeMediaHeckYeah Wiki Storage](https://www.reddit.com/r/freemediaheckyeah/wiki/storage) - In case you never came across this ('cause it's not on the wiki index)
   * [r/Piracy Wiki](https://reddit.com/r/piracy/wiki/index) - Ahoy there matey! 'tis landlubber be splattin' sum free doubloons, aye?
- 
   
+## 4chan
+  * [/g/sqt/ - Stupid Questions Thread](https://boards.4channel.org/g/#s=sqt) - Stupid questions about technology.
+  * [/g/fwt/ - Friendly Windows Thread](https://boards.4channel.org/g/#s=fwt) - Users of all levels are welcome to ask questions about Windows and share their experiences. Tell us about tools, utilities, configs, tips & tricks that enhance your life with Windows (ReactOS users are also welcome).
+  * [/g/fglt - Friendly GNU/Linux Thread](https://boards.4channel.org/g/#s=fglt) - Users of all levels are welcome to ask questions about GNU/Linux and share their experiences. Before asking for help, please check our list of resources and FAQ or take a moment to do a web search.
+
+   
 ## Others
+  * [/g/'s Wiki](https://wiki.installgentoo.com/wiki/Main_Page) - The free wiki for various hardware and software stuff.
+  * [Friendly Windows Thread Paste](https://rentry.co/fwt) - Guide for windows by /g/fwt/.
+  * [Friendly WIndows Thread - Downloads](https://rentry.co/fwtdwnl) - Download Windows Install Media Techbench/MVS ISO/UUP/SVF/ESD.
+  * [MDL Windows Optimize-Offline Guide](https://rentry.co/mdl-optimize-guide) - Windows Debloating Tool, Windows 1803, 1903, 19H2, 1909, 20H1 and LTSC 2019.
+  * [What distro should I choose?](https://wiki.installgentoo.com/index.php/Babbies_First_Linux) - For beginners I recommend Linux Mint, Ubuntu, or Pop!_OS.
+  * [/g/fglt/ Website](https://fglt.nl) or [Alt. link](https://p.teknik.io/wJ9Zy) - Friendly GNU/Linux guides and resources.
+  
   
   
 # Privacy-Anonymity-Security
+ * [Just Delete Me](https://justdeleteme.xyz) - A directory of direct links to delete your account from web services.
+ * [Facebook Deletion Guide](https://deletefacebook.com/guide/) - This guide will take you through a smooth and successful Facebook account deletion
  * [The Hated One Youtube](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q) - A channel that focuses on privacy, anonymity, security, and other related important issues. Highly recommended to check out and share with your family and friends.
  * [r/TheHatedOne](https://www.reddit.com/r/thehatedone/) - This subreddit is for anyone who wants to stand up for themselves in the age of digital surveillance, corporate censorship, and centralized control.
  * [Browser extensions](#browser-extensions) - Please take a look at this section as it includes a lot of useful addons for your browsing experience.
  
 ## Privacy
    * [r/Privacy Wiki](https://www.reddit.com/r/privacy/wiki/index) - The intersection of technology, privacy, and freedom in a digital world. 
+   * [Prism Break](https://prism-break.org) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora.
+   * [Privacy Tools](https://privacytools.io) - Provides services, tools and knowledge to protect your privacy against global mass surveillance.
    
 ### Privacy-focused messengers
    * [Signal](https://signal.org/download/) - User friendly, secure end-to-end encryption, requires phone number.
-   * [Briar](https://briarproject.org/download-briar/) - FOSS, peer to peer, doesn't require a phone number, stores the encrypted messages on your devices, not in the cloud, uses tor and can work offline(via same wifi network or bluetooth)
+   * [Element](https://element.io/get-started/) - (formerly Riot) is the reference client for the Matrix network. The Matrix open standard is an open-source standard for secure, decentralized, real-time communication.
+   * [Jami](https://jami.net/download/) - Encrypted instant messaging and video calling software. All communications are E2EE using TLS 1.3 and never stored elsewhere than on user's devices, even when TURN servers are used. 
+   * [Briar](https://briarproject.org/download-briar/) - Encrypted instant messenger on android that connects to contacts via Wi-Fi, Bluetooth, or Tor over the internet to synchronize messages.
 
 ## Anonymity
   * [Tor Browser](https://www.torproject.org/download/) - Please **DON'T change ANYTHING**. Don't change the window size, settings(except the security level), or install addons. You want to blend in, not be unique, to be anonymous on the web.
