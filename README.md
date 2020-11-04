@@ -46,7 +46,18 @@ Table of contents
 ## 4chan
   * [/g/sqt/ - Stupid Questions Thread](https://boards.4channel.org/g/#s=sqt) - Stupid questions about technology.
   * [/g/fwt/ - Friendly Windows Thread](https://boards.4channel.org/g/#s=fwt) - Users of all levels are welcome to ask questions about Windows and share their experiences. Tell us about tools, utilities, configs, tips & tricks that enhance your life with Windows (ReactOS users are also welcome).
-  * [/g/fglt - Friendly GNU/Linux Thread](https://boards.4channel.org/g/#s=fglt) - Users of all levels are welcome to ask questions about GNU/Linux and share their experiences. Before asking for help, please check our list of resources and FAQ or take a moment to do a web search.
+  * [/g/fglt/ - Friendly GNU/Linux Thread](https://boards.4channel.org/g/#s=fglt) - Users of all levels are welcome to ask questions about GNU/Linux and share their experiences. Before asking for help, please check our list of resources and FAQ or take a moment to do a web search.
+  * [/g/pcbg/ - PC Building General Thread](https://boards.4channel.org/g/#s=pcbg) - Title says it all.
+  * [/g/tpg/ - ThinkPad General Thread](https://boards.4channel.org/g/#s=tpg) - Laptop recommendations(I personally don't agree to all they say tho). "Don't buy anything OTHER THAN IBM/Lenovo ThinkPad T, X, and W/P Series if you want the Real Business Experience™" -/g/
+  * [/g/spg/ - Smartphone General Thread](https://boards.4channel.org/g/#s=spg) - If you're requesting purchasing advice, please provide your country and what carrier you'll be using. Include the features you want, budget, and size.
+  * [/g/csg/ - Chink Shit General Thread](https://boards.4channel.org/g/#s=csg) - Discuss the cheap electronics you see on Gearbest, Taobao, AliExpress, Banggood, eBay and similar sites.
+  * [/g/hpg/ - Headphones General Thread](https://boards.4channel.org/g/#s=hpg) - Yes. Headphones.
+  * [/g/dpt/ - Daily Programming Thread](https://boards.4channel.org/g/#s=dpt) - What are you working on, /g/?
+  * [/g/dhg/ + /g/hsg/ - Data Hoarding & Home Server general Thread](https://boards.4channel.org/g/#s=dhg+hsg) - Discuss data hoarding and other home server projects.
+  * [/g/wdg/ - Web Development General Thread](https://boards.4channel.org/g/#s=wdg) - Useful resources for beginners and helpful anons for the experienced.
+  * [/g/ptg/ - Private Trackers General Thread](htps://boards.4channel.org/g/#s=ptg) - Educate yourself about PTs.
+  * [/g/cyb/ + /g/sec/ - Cyberpunk & Cybersecurity General Thread](htttps://boards.4channel.org/g/#s=cyb+sec) - Is there anything cooler?
+  * [/g/cumg/ - Coom Utilities Thread](htps://boards.4channel.org/g/#s=cumg) - ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
 
    
 ## Others
