@@ -51,13 +51,14 @@ Table of contents
   * [/g/tpg/ - ThinkPad General Thread](https://boards.4channel.org/g/#s=tpg) - Laptop recommendations(I personally don't agree to all they say tho). "Don't buy anything OTHER THAN IBM/Lenovo ThinkPad T, X, and W/P Series if you want the Real Business Experience™" -/g/
   * [/g/spg/ - Smartphone General Thread](https://boards.4channel.org/g/#s=spg) - If you're requesting purchasing advice, please provide your country and what carrier you'll be using. Include the features you want, budget, and size.
   * [/g/csg/ - Chink Shit General Thread](https://boards.4channel.org/g/#s=csg) - Discuss the cheap electronics you see on Gearbest, Taobao, AliExpress, Banggood, eBay and similar sites.
-  * [/g/hpg/ - Headphones General Thread](https://boards.4channel.org/g/#s=hpg) - Yes. Headphones.
   * [/g/dpt/ - Daily Programming Thread](https://boards.4channel.org/g/#s=dpt) - What are you working on, /g/?
+  * [/g/hpg/ - Headphones General Thread](https://boards.4channel.org/g/#s=hpg) - Yes. Headphones.
   * [/g/dhg/ + /g/hsg/ - Data Hoarding & Home Server general Thread](https://boards.4channel.org/g/#s=dhg+hsg) - Discuss data hoarding and other home server projects.
   * [/g/wdg/ - Web Development General Thread](https://boards.4channel.org/g/#s=wdg) - Useful resources for beginners and helpful anons for the experienced.
   * [/g/ptg/ - Private Trackers General Thread](htps://boards.4channel.org/g/#s=ptg) - Educate yourself about PTs.
   * [/g/cyb/ + /g/sec/ - Cyberpunk & Cybersecurity General Thread](htttps://boards.4channel.org/g/#s=cyb+sec) - Is there anything cooler?
   * [/g/cumg/ - Coom Utilities Thread](htps://boards.4channel.org/g/#s=cumg) - ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
+  * [/g/mkg/ - Mechanical Keyboards General Thread](htps://boards.4channel.org/g/#s=mkg) - click clack
 
    
 ## Others
