@@ -2,14 +2,13 @@ Table of contents
 =================
 
 <!--ts-->
-* [Wikis/Megathreads/Awesome Github Repos](#wikis-megathreads-awesome-github-repos)
-  * [Awesome](#awesome)
+* [Wikis/Megathreads/Awesome Github Repos](#wikis/megathreads/awesome-github-repos)
+  * [Awesome](#awesome-github)
   * [Reddit](#reddit)
-  * [4chan](#4chan)
   * [Others](#others)
 
   
-* [Privacy/Anonymity/Security](#privacy-anonymity-security)
+* [Privacy/Anonymity/Security](#privacy/anonymity/security)
   * [Privacy](#privacy)
   * [Anonymity](#anonymity)
   * [Security](#security)
@@ -19,19 +18,25 @@ Table of contents
   * [Windows Package Managers](#windows-package-managers)
   
 * [Websites](#websites)
+  * [Utility](#utility)
   * [Browser Extensions](#browser-extensions)
 
-* [General Tools/Guides](#general-tools-guides)
+* [Gaming](#gaming)
+  * [Hardware related](#hardware-related) 
+  * [Software related](#software-related)
 
+* [General Tools/Guides](#general-tools-or-guides) 
+  * [Windows](#windows)
+  * [Android](#android)
 * [Youtube Channels](#youtube-channels)
 
 * [Miscellaneous](#miscellaneous)
 <!--te-->
 
 
-# Wikis-Megathreads-Awesome Github Repos
+# Wikis/Megathreads/Awesome Github Repos
 
-## Awesome
+## Awesome Github
   * [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics. Find most of the "Awesome" Github repos here.
   * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness. Similar to what's above.
   * [Awesome Research](https://github.com/emptymalei/awesome-research) - A curated list of tools to help you with your research/life.
@@ -42,34 +47,21 @@ Table of contents
   * [r/FreeMediaHeckYeah Wiki](https://www.reddit.com/r/freemediaheckyeah/wiki) - Who doesn't like free stuff??? You can find a LOT of useful information and resources here. Highly recommended to check out.
   * [r/FreeMediaHeckYeah Wiki Storage](https://www.reddit.com/r/freemediaheckyeah/wiki/storage) - In case you never came across this ('cause it's not on the wiki index)
   * [r/Piracy Wiki](https://reddit.com/r/piracy/wiki/index) - Ahoy there matey! 'tis landlubber be splattin' sum free doubloons, aye?
-  
-## 4chan
-  * [/g/sqt/ - Stupid Questions Thread](https://boards.4channel.org/g/#s=sqt) - Stupid questions about technology.
-  * [/g/fwt/ - Friendly Windows Thread](https://boards.4channel.org/g/#s=fwt) - Users of all levels are welcome to ask questions about Windows and share their experiences. Tell us about tools, utilities, configs, tips & tricks that enhance your life with Windows (ReactOS users are also welcome).
-  * [/g/fglt/ - Friendly GNU/Linux Thread](https://boards.4channel.org/g/#s=fglt) - Users of all levels are welcome to ask questions about GNU/Linux and share their experiences. Before asking for help, please check our list of resources and FAQ or take a moment to do a web search.
-  * [/g/pcbg/ - PC Building General Thread](https://boards.4channel.org/g/#s=pcbg) - Title says it all.
-  * [/g/tpg/ - ThinkPad General Thread](https://boards.4channel.org/g/#s=tpg) - Laptop recommendations(I personally don't agree to all they say tho). "Don't buy anything OTHER THAN IBM/Lenovo ThinkPad T, X, and W/P Series if you want the Real Business Experience™" -/g/
-  * [/g/spg/ - Smartphone General Thread](https://boards.4channel.org/g/#s=spg) - If you're requesting purchasing advice, please provide your country and what carrier you'll be using. Include the features you want, budget, and size.
-  * [/g/csg/ - Chink Shit General Thread](https://boards.4channel.org/g/#s=csg) - Discuss the cheap electronics you see on Gearbest, Taobao, AliExpress, Banggood, eBay and similar sites.
-  * [/g/dpt/ - Daily Programming Thread](https://boards.4channel.org/g/#s=dpt) - What are you working on, /g/?
-  * [/g/dhg/ + /g/hsg/ - Data Hoarding & Home Server general Thread](https://boards.4channel.org/g/#s=dhg+hsg) - Discuss data hoarding and other home server projects.
-  * [/g/cyb/ + /g/sec/ - Cyberpunk & Cybersecurity General Thread](https://boards.4channel.org/g/#s=cyb+sec) - Is there anything cooler?
-  * [/g/wdg/ - Web Development General Thread](https://boards.4channel.org/g/#s=wdg) - Useful resources for beginners and helpful anons for the experienced.
-  * [/g/cumg/ - Coom Utilities Thread](https://boards.4channel.org/g/#s=cumg) - ( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡°)ʖ ͡°) ͡°)
-  * [/g/mkg/ - Mechanical Keyboards General Thread](https://boards.4channel.org/g/#s=mkg) - click clack
-
+  * [r/Anime watch order wiki](https://old.reddit.com/r/anime/wiki/watch_order) - a wiki for the watch order of several anime.
    
 ## Others
   * [/g/'s Wiki](https://wiki.installgentoo.com/wiki/Main_Page) - The free wiki for various hardware and software stuff.
   * [Friendly Windows Thread Paste](https://rentry.co/fwt) - Guide for windows by /g/fwt/.
   * [Friendly WIndows Thread - Downloads](https://rentry.co/fwtdwnl) - Download Windows Install Media Techbench/MVS ISO/UUP/SVF/ESD.
+  * [Windows installation for retards](https://rentry.co/windows_for_retards) - 'nuff said.
   * [MDL Windows Optimize-Offline Guide](https://rentry.co/mdl-optimize-guide) - Windows Debloating Tool, Windows 1803, 1903, 19H2, 1909, 20H1 and LTSC 2019.
+  * [Optimize-Offline for LTSC 2019 x64](https://rentry.co/ltsc_optimize) - like the one above with some additions but only for LTSC 2019 x64
   * [What distro should I choose?](https://wiki.installgentoo.com/index.php/Babbies_First_Linux) - For beginners I recommend Linux Mint, Ubuntu, or Pop!_OS.
   * [/g/fglt/ Website](https://fglt.nl) or [Alt. link](https://p.teknik.io/wJ9Zy) - Friendly GNU/Linux guides and resources.
   
   
   
-# Privacy-Anonymity-Security
+# Privacy/Anonymity/Security
  * [Just Delete Me](https://justdeleteme.xyz) - A directory of direct links to delete your account from web services.
  * [Facebook Deletion Guide](https://deletefacebook.com/guide/) - This guide will take you through a smooth and successful Facebook account deletion
  * [The Hated One Youtube](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q) - A channel that focuses on privacy, anonymity, security, and other related important issues. Highly recommended to check out and share with your family and friends.
@@ -88,7 +80,7 @@ Table of contents
    * [Briar](https://briarproject.org/download-briar/) - Encrypted instant messenger on android that connects to contacts via Wi-Fi, Bluetooth, or Tor over the internet to synchronize messages.
 
 ## Anonymity
-  * [Tor Browser](https://www.torproject.org/download/) - Please **DON'T change ANYTHING**. Don't change the window size, settings(except the security level), or install addons. You want to blend in, not be unique, to be anonymous on the web.
+  * [Tor Browser](https://www.torproject.org/download/) - Please **DON'T change ANYTHING**. Don't change the window size, settings(**EXCEPT the security level**), or install addons. You want to blend in, not be unique, to be anonymous on the web.
   * [Orbot](https://guardianproject.info/apps/org.torproject.android/) - System wide Tor proxy for android.
   
 ## Security
@@ -108,6 +100,12 @@ Table of contents
 
 
 # Websites
+## Utility
+* [Twitch Lite](https://thavixt.github.io/twitch-lite/) - A lightweight website for watching Twitch streams without the bloat of the official website.
+* [Deepl translator](https://www.deepl.com/en/translator) - Alternative to google translate
+* [Waifu2x](http://waifu2x.udp.jp/index.html) - Enhance photos (mainly anime styled ones)
+* [Monkeytype](https://monkeytype.com/) - A minimalistic, customisable typing website.
+
 ## Browser Extensions
   * []() - 
   * []() - 
@@ -119,9 +117,21 @@ Table of contents
   * []() - 
   * []() - 
 
-# General Tools-Guides
 
+# Gaming
+## Hardware related
+* [Mouse click latency chart](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/htmlview) - if you care about that stuff
+## Software related
+* [RagnoTech's Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - Tools for optimizing games
 
+# General Tools or Guides
+## Windows
+* [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes, without the original setup bloat payload.
+* [Privatezilla](https://github.com/builtbybel/privatezilla#download) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
+* [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks
+## Android
+* []() - 
+* []() - 
 # Youtube Channels
 
 
