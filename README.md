@@ -152,27 +152,39 @@ Table of contents
 
   * [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - Remove tracking elements from URLs.
 
-  * [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark mode for every website. (With some exceptions)
-
-  * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Allows you to easily install themes and skins for many popular sites.
-
   * [Canvas Blocker](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - Prevent HTML canvas element from generating a unique identification key to protect user's privacy.
 
   * [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) - Guard against CSS data exfiltration attacks.
 
-  * []() - 
+  * [Terms of Service; Didn't Read](https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg) - Get information instantly about websites' terms of service and privacy policies.
 
-  * []() -
+  * [Privacy Pass](https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi) - Client support for Privacy Pass anonymous authorization protocol.
 
-  * []() -
+  * [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark mode for every website. (With some exceptions)
 
-  * []() -
+  * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Allows you to easily install themes and skins for many popular sites. [Youtube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode)
 
-  * []() -
+  * [Enhancer for Youtube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) - Take control of YouTube and boost your user experience!
 
-  * []() -
+  * [Sponsorblock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skip sponsorships, subscription begging and more on YouTube videos.
 
+  * [Adwhore for Youtube](https://chrome.google.com/webstore/detail/adwhorenet-for-youtube/emfkjghgdkajicmnicojahgojkemagcm) - Share and skip commercial video segments from YouTubers that sell your trust!
 
+  * [Social Fixer for Facebook](https://chrome.google.com/webstore/detail/social-fixer-for-facebook/ifmhoabcaeehkljcfclfiieohkohdgbb) - Lets you filter your news feed, hide things you don't want to see, and customize your FB experience.
+
+  * [Multiple Tools for Facebook](https://chrome.google.com/webstore/detail/multiple-tools-for-facebo/eojdckfcadamkapabechhbnkleligand) - A collection of automation tools.
+
+  * [Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof) - Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.
+
+  * [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) - Allows active content (Javascript) only for trusted domains of your choice to prevent exploitation.
+
+  * [Skip Redirect](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon) - Skip intermediary pages that some pages use before redirecting to a final page.
+
+  * [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect content based on user-defined rules.
+
+  * [Popup Blocker (Strict)](https://chrome.google.com/webstore/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg) - Strictly block all popup requests from any website.
+
+  * [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - A cookie manager. You can add, delete, edit, search, protect and block cookies!
   
 ### Adblock Lists-Filters and Userscripts
   * [Anti-adblock Killer](https://reek.github.io/anti-adblock-killer/)
@@ -180,7 +192,15 @@ Table of contents
   * [Fuck Fuck Adblock](https://github.com/bogachenko/fuckfuckadblock)
   * [OISD](https://oisd.nl/?p=dl)
   * [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)
-  * []()
+  * [4Chan X](https://github.com/ccd0/4chan-x)
+  * [Absolute Enable Right Click Copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
+  * [Anti-Adware](https://greasyfork.org/en/scripts/4294-antiadware)
+  * [Direct Links Out](https://greasyfork.org/en/scripts/15857-direct-links-out)
+  * [GitHub Internationalization](https://greasyfork.org/en/scripts/407485-github-internationalization)
+  * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)
+  * [Remove web limits(modified)](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified)
+  * [Remove Youtube Ads(Works)](https://greasyfork.org/en/scripts/27199-remove-youtube-ads-works)
+  * [RU AdList JS Fixes](https://greasyfork.org/en/scripts/19993-ru-adlist-js-fixes)
 
 
 # Gaming
@@ -199,6 +219,7 @@ Table of contents
 * [Privatezilla](https://github.com/builtbybel/privatezilla#download) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 
 * [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks
+
 ## Android
 * []() - 
 * []() - 
