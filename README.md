@@ -18,6 +18,9 @@ Table of contents
   
 * [Websites](#websites)
   * [Utility](#utility)
+  * [Audio Stuff](#Audio-stuff)
+  * [Anime/Manga/Novels/Japanese](#anime-manga-novels-japanese)
+  * [Tech Stuff](#tech-stuff)
   * [Browser Extensions](#browser-extensions)
   * [Adblock lists/Filters and Userscripts](#adblock-lists-filters-and-userscripts)
 
@@ -71,6 +74,8 @@ Table of contents
   * [What distro should I choose?](https://wiki.installgentoo.com/index.php/Babbies_First_Linux) - For beginners I recommend Linux Mint, Ubuntu, or Pop!_OS.
 
   * [/g/fglt/ Website](https://fglt.nl) or [Alt. link](https://p.teknik.io/wJ9Zy) - Friendly GNU/Linux guides and resources.
+
+  * [Raymond Free Software](https://sites.google.com/site/raymondfreesoftware/) - Useful resources for cracks and software.
   
   
 # Privacy-Anonymity-Security
@@ -138,6 +143,51 @@ Table of contents
 * [Waifu2x](http://waifu2x.udp.jp/index.html) - Enhance photos (mainly anime styled ones).
 
 * [Monkeytype](https://monkeytype.com/) - A minimalistic, customizable typing website.
+
+### Audio stuff
+* [Hikari no Akari OST](https://hikarinoakari.com/) - Download Japanese music. (Usually Anime OSTs and seiyuu music)
+
+* [Suki desu OST](https://sukidesuost.info/) - Same as above but has some missing artists/music.
+
+* [Minami Colletions](https://minami-collections.ml/) - A collection of Minami 美波 songs. (Including rares)
+
+* [Youtube to mp3](https://ytmp3.eu/en45/) - I like it since it's 320KB/s.
+
+* [Hollow Memories](https://github.com/Lytexx/hollow_memories) - Save streams and playlists.
+
+* [Zpolt's Earphones Top Charts](https://zpolt.com/2018/09/26/earphone-top-charts-etc-best-earphones-headphones-list-zpolt-com/) - Top recommended earphones per price range and type.
+
+### Anime-Manga-Novels-Japanese
+* [Livechart](https://www.livechart.me/) - A chart for seasonal anime.
+
+* [My Anime List Seasonal Anime](https://myanimelist.net/anime/season) - Same as above. (But I didn't like the new layout)
+
+* [JNovels](https://jnovels.com/) - Japanese novels in epub or pdf format and more.
+
+* [charVANder Tensura Edited MTLs](https://drive.google.com/drive/u/0/mobile/folders/14LqRkU1ayeIYi8MaKInDVF5LdqwVqehC) - Edited Machine Translations of That Time I was Reincarnated as a Slime's Light Novel. (If you can't wait for the full fan translations)
+
+* [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) - Memorize Hiragana in hours or days, not months or years.
+
+* [Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Same as above but with Katakana.
+
+### Tech Stuff
+* [Hacking Collection Index](http://index-of.co.uk/Hacking-Coleccion/) - Browse at your own risk.
+
+* [PH Corner](https://phcorner.net/) - PH-based useful forum for tech topics.
+
+* [PISO VPN](https://www.pisovpn.com/)
+
+* [Corona SSH](https://coronassh.com/dashboard.php)
+
+* [Xamjyss VPN](https://xamjyssvpn.xyz/home.php) 
+
+* [Subdomain Finder](https://subdomainfinder.c99.nl/index.php)
+
+* [DNS Dumpster](https://dnsdumpster.com/)
+
+* [IP WHOIS](https://ultratools.com/tools/ipWhoisLookupResult)
+
+* [ipv4 to ipv6](https://www.ultratools.com/tools/ipv4toipv6)
 
 ## Browser Extensions
   * [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient wide-spectrum content blocker (not just an adblocker) with CPU and memory efficiency as a primary feature.
@@ -207,10 +257,11 @@ Table of contents
 ## Hardware related
 * [Mouse click latency chart](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/htmlview) - if you care about that stuff
 
-
 ## Software related
 * [RagnoTech's Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - Tools for optimizing games
 
+* [Steamdb Calculator](https://steamdb.info/calculator/) - Calculate your account's net worth.
+* [Warframe Hub](https://hub.warframestat.us/#/) - Useful info for warframe players.
 
 # General Tools or Guides
 ## Windows
