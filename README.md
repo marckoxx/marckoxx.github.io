@@ -206,11 +206,17 @@ Table of contents
 
   * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 
+  * [LocalCDN](https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd) - Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.
+
   * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - automatically learns to block invisible trackers.
 
   * [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - Remove tracking elements from URLs.
 
   * [Canvas Blocker](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - Prevent HTML canvas element from generating a unique identification key to protect user's privacy.
+
+  * [Trace](https://chrome.google.com/webstore/detail/trace-online-tracking-pro/njkmjblmcfiobddjgebnoeldkjcplfjb) - An extension to stop multiple advanced tracking techniques employed by websites all over the web.
+
+  * [CyDec Anti-Fingerprinting](https://chrome.google.com/webstore/detail/cydec-platform-anti-finge/becfjfjckdhngmmpkhakoknnkgpgfelk) - Stop trackers from accurately fingerprinting your system through obfuscation and deception.
 
   * [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) - Guard against CSS data exfiltration attacks.
 
@@ -250,6 +256,8 @@ Table of contents
   * [Fuck Fuck Adblock](https://github.com/bogachenko/fuckfuckadblock)
   * [OISD](https://oisd.nl/?p=dl)
   * [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)
+  * [D3host List](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
+  * [NoTracking Adblock List](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
   * [4Chan X](https://github.com/ccd0/4chan-x)
   * [Absolute Enable Right Click Copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
   * [Anti-Adware](https://greasyfork.org/en/scripts/4294-antiadware)
@@ -258,6 +266,7 @@ Table of contents
   * [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)
   * [Remove web limits(modified)](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified)
   * [Remove Youtube Ads(Works)](https://greasyfork.org/en/scripts/27199-remove-youtube-ads-works)
+  * [Youtube Age Verification Bypass](https://greasyfork.org/en/scripts/375525-youtube-age-verification-bypass)
   * [RU AdList JS Fixes](https://greasyfork.org/en/scripts/19993-ru-adlist-js-fixes)
 
 
