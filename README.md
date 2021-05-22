@@ -2,13 +2,13 @@ Table of contents
 =================
 
 <!--ts-->
-* [Wikis/Megathreads/Awesome Github Repos](#wikis/megathreads/awesome-github-repos)
+* [Wikis/Megathreads/Awesome Github Repos](#wikis-megathreads-awesome-github-repos)
   * [Awesome](#awesome-github)
   * [Reddit](#reddit)
   * [Others](#others)
 
   
-* [Privacy/Anonymity/Security](#privacy/anonymity/security)
+* [Privacy/Anonymity/Security](#privacy-anonymity-security)
   * [Privacy](#privacy)
   * [Anonymity](#anonymity)
   * [Security](#security)
@@ -20,6 +20,7 @@ Table of contents
 * [Websites](#websites)
   * [Utility](#utility)
   * [Browser Extensions](#browser-extensions)
+  * [Adblock lists/Filters and Userscripts](#adblock-lists-filters-and-userscripts)
 
 * [Gaming](#gaming)
   * [Hardware related](#hardware-related) 
@@ -34,10 +35,11 @@ Table of contents
 <!--te-->
 
 
-# Wikis/Megathreads/Awesome Github Repos
+# Wikis-Megathreads-Awesome Github Repos
 
 ## Awesome Github
   * [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics. Find most of the "Awesome" Github repos here.
+
   * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness. Similar to what's above.
   * [Awesome Research](https://github.com/emptymalei/awesome-research) - A curated list of tools to help you with your research/life.
   * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
@@ -45,12 +47,14 @@ Table of contents
   
 ## Reddit
   * [r/FreeMediaHeckYeah Wiki](https://www.reddit.com/r/freemediaheckyeah/wiki) - Who doesn't like free stuff??? You can find a LOT of useful information and resources here. Highly recommended to check out.
+
   * [r/FreeMediaHeckYeah Wiki Storage](https://www.reddit.com/r/freemediaheckyeah/wiki/storage) - In case you never came across this ('cause it's not on the wiki index)
-  * [r/Piracy Wiki](https://reddit.com/r/piracy/wiki/index) - Ahoy there matey! 'tis landlubber be splattin' sum free doubloons, aye?
-  * [r/Anime watch order wiki](https://old.reddit.com/r/anime/wiki/watch_order) - a wiki for the watch order of several anime.
+  * [r/Piracy Wiki](https://www.reddit.com/r/piracy/wiki/index) - Ahoy there matey! 'tis landlubber be splattin' sum free doubloons, aye?
+  * [r/Anime watch order wiki](https://www.reddit.com/r/anime/wiki/watch_order) - a wiki for the watch order of several anime.
    
 ## Others
   * [/g/'s Wiki](https://wiki.installgentoo.com/wiki/Main_Page) - The free wiki for various hardware and software stuff.
+
   * [Friendly Windows Thread Paste](https://rentry.co/fwt) - Guide for windows by /g/fwt/.
   * [Friendly WIndows Thread - Downloads](https://rentry.co/fwtdwnl) - Download Windows Install Media Techbench/MVS ISO/UUP/SVF/ESD.
   * [Windows installation for retards](https://rentry.co/windows_for_retards) - 'nuff said.
@@ -61,72 +65,103 @@ Table of contents
   
   
   
-# Privacy/Anonymity/Security
+# Privacy-Anonymity-Security
+  *  [Techxodus Wiki](https://wiki.techxodus.org/en/home) - an index that aims to provide alternative platforms and software to people looking to escape the clutches of big tech, while also improving their privacy and security online. It's particularly aimed towards those who aren't tech-savvy.
+
  * [Just Delete Me](https://justdeleteme.xyz) - A directory of direct links to delete your account from web services.
  * [Facebook Deletion Guide](https://deletefacebook.com/guide/) - This guide will take you through a smooth and successful Facebook account deletion
+ * [Techlore](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg) - A very educational channel that's beginner friendly. Recommended to check out before the hated one.
  * [The Hated One Youtube](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q) - A channel that focuses on privacy, anonymity, security, and other related important issues. Highly recommended to check out and share with your family and friends.
  * [r/TheHatedOne](https://www.reddit.com/r/thehatedone/) - This subreddit is for anyone who wants to stand up for themselves in the age of digital surveillance, corporate censorship, and centralized control.
  * [Browser extensions](#browser-extensions) - Please take a look at this section as it includes a lot of useful addons for your browsing experience.
  
 ## Privacy
    * [r/Privacy Wiki](https://www.reddit.com/r/privacy/wiki/index) - The intersection of technology, privacy, and freedom in a digital world. 
+
    * [Prism Break](https://prism-break.org) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora.
    * [Privacy Tools](https://privacytools.io) - Provides services, tools and knowledge to protect your privacy against global mass surveillance.
    
 ### Privacy-focused messengers
    * [Signal](https://signal.org/download/) - User friendly, secure end-to-end encryption, requires phone number.
+
    * [Element](https://element.io/get-started/) - (formerly Riot) is the reference client for the Matrix network. The Matrix open standard is an open-source standard for secure, decentralized, real-time communication.
    * [Jami](https://jami.net/download/) - Encrypted instant messaging and video calling software. All communications are E2EE using TLS 1.3 and never stored elsewhere than on user's devices, even when TURN servers are used. 
    * [Briar](https://briarproject.org/download-briar/) - Encrypted instant messenger on android that connects to contacts via Wi-Fi, Bluetooth, or Tor over the internet to synchronize messages.
 
 ## Anonymity
   * [Tor Browser](https://www.torproject.org/download/) - Please **DON'T change ANYTHING**. Don't change the window size, settings(**EXCEPT the security level**), or install addons. You want to blend in, not be unique, to be anonymous on the web.
+
   * [Orbot](https://guardianproject.info/apps/org.torproject.android/) - System wide Tor proxy for android.
   
 ## Security
   * [r/TechSupport Malware Removal Guide](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Highly recommended to read and bookmark.
+
   
   
 # App Repositories
   
 ## Android App Stores
   * [F-Droid](https://www.f-droid.org) - You can get FOSS (Free and open-source) apps here.
+
   * [XDA Labs](https://labs.xda-developers.com) - Apps from independent developers on XDA.
-  * [Aurora App Store](https://f-droid.org/en/packages/com.aurora.store/) - Alternative for Google Play Store. You can also spoof your location and choose not to use a Google account(RECOMMENDED).
+  * [Aurora App Store](https://f-droid.org/en/packages/com.aurora.store/) - Alternative for Google Play Store. You can also spoof your location and choose not to use a Google account (RECOMMENDED).
   
 ## Windows Package Managers
   * [Ninite](https://ninite.com) - Install or update multiple apps at once.
+
   * [Chocolatey](https://chocolatey.org/install) - Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages. 
 
 
 # Websites
 ## Utility
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - A lightweight website for watching Twitch streams without the bloat of the official website.
+
 * [Deepl translator](https://www.deepl.com/en/translator) - Alternative to google translate
 * [Waifu2x](http://waifu2x.udp.jp/index.html) - Enhance photos (mainly anime styled ones)
-* [Monkeytype](https://monkeytype.com/) - A minimalistic, customisable typing website.
+* [Monkeytype](https://monkeytype.com/) - A minimalistic, customizable typing website.
 
 ## Browser Extensions
+  * [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient wide-spectrum content blocker (not just an adblocker) with CPU and memory efficiency as a primary feature.
+
+  * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
+  * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Automatically use HTTPS security on many sites.
+  * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
+  * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - automatically learns to block invisible trackers.
+  * [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - Remove tracking elements from URLs.
+  * [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark mode for every website. (With some exceptions)
+  * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Allows you to easily install themes and skins for many popular sites.
+  * [Canvas Blocker](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - Prevent HTML canvas element from generating a unique identification key to protect user's privacy.
+  * [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) - Guard against CSS data exfiltration attacks.
   * []() - 
-  * []() - 
-  * []() - 
-  * []() - 
-  * []() - 
-  * []() - 
-  * []() - 
-  * []() - 
-  * []() - 
+  * []() -
+  * []() -
+  * []() -
+  * []() -
+  * []() -
+
+  
+### Adblock Lists-Filters and Userscripts
+  * [Anti-adblock Killer](https://reek.github.io/anti-adblock-killer/)
+  * [Fanboy Filters](https://www.fanboy.co.nz/filters.html)
+  * [Fuck Fuck Adblock](https://github.com/bogachenko/fuckfuckadblock)
+  * [OISD](https://oisd.nl/?p=dl)
+  * [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)
+  * []()
 
 
 # Gaming
 ## Hardware related
 * [Mouse click latency chart](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/htmlview) - if you care about that stuff
+
+
 ## Software related
 * [RagnoTech's Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - Tools for optimizing games
 
+
 # General Tools or Guides
 ## Windows
-* [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes, without the original setup bloat payload.
+* [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) - All-In-One Repack for latest Microsoft Visual C++ Redistributable Runtimes, without the original setup bloat payload.
+
 * [Privatezilla](https://github.com/builtbybel/privatezilla#download) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 * [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks
 ## Android
