@@ -162,6 +162,14 @@ Table of contents
 
 * [My Anime List Seasonal Anime](https://myanimelist.net/anime/season) - Same as above. (But I didn't like the new layout)
 
+* [Gogoanime](https://www1.gogoanime.ai/) - Classic look, has ads, huge library.
+
+* [9anime](https://9anime.to/) - Modern look, has ads, sometimes captcha, huge library.
+
+* [Manganelo](https://manganelo.com/) - My preferred reading site.
+
+* [Mangafast](https://mangafast.net/) - My second preferred reading site.
+
 * [JNovels](https://jnovels.com/) - Japanese novels in epub or pdf format and more.
 
 * [charVANder Tensura Edited MTLs](https://drive.google.com/drive/u/0/mobile/folders/14LqRkU1ayeIYi8MaKInDVF5LdqwVqehC) - Edited Machine Translations of That Time I was Reincarnated as a Slime's Light Novel. (If you can't wait for the full fan translations)
