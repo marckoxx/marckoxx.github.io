@@ -261,6 +261,7 @@ Table of contents
 * [RagnoTech's Optimization Catalog](https://ragnos1997.com/optimization-catalog/) - Tools for optimizing games
 
 * [Steamdb Calculator](https://steamdb.info/calculator/) - Calculate your account's net worth.
+
 * [Warframe Hub](https://hub.warframestat.us/#/) - Useful info for warframe players.
 
 # General Tools or Guides
