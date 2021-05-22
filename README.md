@@ -6,7 +6,6 @@ Table of contents
   * [Awesome](#awesome-github)
   * [Reddit](#reddit)
   * [Others](#others)
-
   
 * [Privacy/Anonymity/Security](#privacy-anonymity-security)
   * [Privacy](#privacy)
@@ -41,15 +40,20 @@ Table of contents
   * [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics. Find most of the "Awesome" Github repos here.
 
   * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness. Similar to what's above.
+ 
   * [Awesome Research](https://github.com/emptymalei/awesome-research) - A curated list of tools to help you with your research/life.
+ 
   * [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+  
   * [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
   
 ## Reddit
   * [r/FreeMediaHeckYeah Wiki](https://www.reddit.com/r/freemediaheckyeah/wiki) - Who doesn't like free stuff??? You can find a LOT of useful information and resources here. Highly recommended to check out.
 
   * [r/FreeMediaHeckYeah Wiki Storage](https://www.reddit.com/r/freemediaheckyeah/wiki/storage) - In case you never came across this ('cause it's not on the wiki index)
+
   * [r/Piracy Wiki](https://www.reddit.com/r/piracy/wiki/index) - Ahoy there matey! 'tis landlubber be splattin' sum free doubloons, aye?
+
   * [r/Anime watch order wiki](https://www.reddit.com/r/anime/wiki/watch_order) - a wiki for the watch order of several anime.
    
 ## Others
@@ -57,35 +61,47 @@ Table of contents
 
   * [Friendly Windows Thread Paste](https://rentry.co/fwt) - Guide for windows by /g/fwt/.
   * [Friendly WIndows Thread - Downloads](https://rentry.co/fwtdwnl) - Download Windows Install Media Techbench/MVS ISO/UUP/SVF/ESD.
+
   * [Windows installation for retards](https://rentry.co/windows_for_retards) - 'nuff said.
+
   * [MDL Windows Optimize-Offline Guide](https://rentry.co/mdl-optimize-guide) - Windows Debloating Tool, Windows 1803, 1903, 19H2, 1909, 20H1 and LTSC 2019.
-  * [Optimize-Offline for LTSC 2019 x64](https://rentry.co/ltsc_optimize) - like the one above with some additions but only for LTSC 2019 x64
+
+  * [Optimize-Offline for LTSC 2019 x64](https://rentry.co/ltsc_optimize) - like the one above with some additions but only for LTSC 2019 x64.
+
   * [What distro should I choose?](https://wiki.installgentoo.com/index.php/Babbies_First_Linux) - For beginners I recommend Linux Mint, Ubuntu, or Pop!_OS.
+
   * [/g/fglt/ Website](https://fglt.nl) or [Alt. link](https://p.teknik.io/wJ9Zy) - Friendly GNU/Linux guides and resources.
-  
   
   
 # Privacy-Anonymity-Security
   *  [Techxodus Wiki](https://wiki.techxodus.org/en/home) - an index that aims to provide alternative platforms and software to people looking to escape the clutches of big tech, while also improving their privacy and security online. It's particularly aimed towards those who aren't tech-savvy.
 
  * [Just Delete Me](https://justdeleteme.xyz) - A directory of direct links to delete your account from web services.
- * [Facebook Deletion Guide](https://deletefacebook.com/guide/) - This guide will take you through a smooth and successful Facebook account deletion
+
+ * [Facebook Deletion Guide](https://deletefacebook.com/guide/) - This guide will take you through a smooth and successful Facebook account deletion.
+
  * [Techlore](https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg) - A very educational channel that's beginner friendly. Recommended to check out before the hated one.
+
  * [The Hated One Youtube](https://www.youtube.com/channel/UCjr2bPAyPV7t35MvcgT3W8Q) - A channel that focuses on privacy, anonymity, security, and other related important issues. Highly recommended to check out and share with your family and friends.
+
  * [r/TheHatedOne](https://www.reddit.com/r/thehatedone/) - This subreddit is for anyone who wants to stand up for themselves in the age of digital surveillance, corporate censorship, and centralized control.
+
  * [Browser extensions](#browser-extensions) - Please take a look at this section as it includes a lot of useful addons for your browsing experience.
  
 ## Privacy
    * [r/Privacy Wiki](https://www.reddit.com/r/privacy/wiki/index) - The intersection of technology, privacy, and freedom in a digital world. 
 
    * [Prism Break](https://prism-break.org) - Opt out of global data surveillance programs like PRISM, XKeyscore and Tempora.
+
    * [Privacy Tools](https://privacytools.io) - Provides services, tools and knowledge to protect your privacy against global mass surveillance.
    
 ### Privacy-focused messengers
    * [Signal](https://signal.org/download/) - User friendly, secure end-to-end encryption, requires phone number.
 
    * [Element](https://element.io/get-started/) - (formerly Riot) is the reference client for the Matrix network. The Matrix open standard is an open-source standard for secure, decentralized, real-time communication.
+
    * [Jami](https://jami.net/download/) - Encrypted instant messaging and video calling software. All communications are E2EE using TLS 1.3 and never stored elsewhere than on user's devices, even when TURN servers are used. 
+
    * [Briar](https://briarproject.org/download-briar/) - Encrypted instant messenger on android that connects to contacts via Wi-Fi, Bluetooth, or Tor over the internet to synchronize messages.
 
 ## Anonymity
@@ -104,6 +120,7 @@ Table of contents
   * [F-Droid](https://www.f-droid.org) - You can get FOSS (Free and open-source) apps here.
 
   * [XDA Labs](https://labs.xda-developers.com) - Apps from independent developers on XDA.
+
   * [Aurora App Store](https://f-droid.org/en/packages/com.aurora.store/) - Alternative for Google Play Store. You can also spoof your location and choose not to use a Google account (RECOMMENDED).
   
 ## Windows Package Managers
@@ -116,28 +133,45 @@ Table of contents
 ## Utility
 * [Twitch Lite](https://thavixt.github.io/twitch-lite/) - A lightweight website for watching Twitch streams without the bloat of the official website.
 
-* [Deepl translator](https://www.deepl.com/en/translator) - Alternative to google translate
-* [Waifu2x](http://waifu2x.udp.jp/index.html) - Enhance photos (mainly anime styled ones)
+* [Deepl translator](https://www.deepl.com/en/translator) - Alternative to google translate.
+
+* [Waifu2x](http://waifu2x.udp.jp/index.html) - Enhance photos (mainly anime styled ones).
+
 * [Monkeytype](https://monkeytype.com/) - A minimalistic, customizable typing website.
 
 ## Browser Extensions
   * [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient wide-spectrum content blocker (not just an adblocker) with CPU and memory efficiency as a primary feature.
 
   * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
+
   * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Automatically use HTTPS security on many sites.
+
   * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
+
   * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - automatically learns to block invisible trackers.
+
   * [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - Remove tracking elements from URLs.
+
   * [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark mode for every website. (With some exceptions)
+
   * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Allows you to easily install themes and skins for many popular sites.
+
   * [Canvas Blocker](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - Prevent HTML canvas element from generating a unique identification key to protect user's privacy.
+
   * [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) - Guard against CSS data exfiltration attacks.
+
   * []() - 
+
   * []() -
+
   * []() -
+
   * []() -
+
   * []() -
+
   * []() -
+
 
   
 ### Adblock Lists-Filters and Userscripts
@@ -163,10 +197,13 @@ Table of contents
 * [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) - All-In-One Repack for latest Microsoft Visual C++ Redistributable Runtimes, without the original setup bloat payload.
 
 * [Privatezilla](https://github.com/builtbybel/privatezilla#download) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
+
 * [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks
 ## Android
 * []() - 
 * []() - 
+
+
 # Youtube Channels
 
 
