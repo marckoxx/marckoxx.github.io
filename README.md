@@ -254,6 +254,8 @@
 
 - [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - A cookie manager. You can add, delete, edit, search, protect and block cookies!
   
+- [Smooth Key Scroll](https://chrome.google.com/webstore/detail/smooth-key-scroll/gphmhpfbknciemgfnfhjapilmcaecljh) - Enables smooth and responsive scrolling with the keyboard on every page.
+
 ### Adblock Lists/Filters and Userscripts
 
 - [Anti-adblock Killer](https://reek.github.io/anti-adblock-killer/)
