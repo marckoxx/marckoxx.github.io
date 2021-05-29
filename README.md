@@ -204,7 +204,7 @@
 
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient wide-spectrum content blocker (not just an adblocker) with CPU and memory efficiency as a primary feature.
 
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
+- [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) - The alternative to the world's most popular userscript manager. (Apparently they don't recommend Tampermonkey)
 
 - [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Automatically use HTTPS security on many sites.
 
