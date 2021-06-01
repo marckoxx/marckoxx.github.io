@@ -214,6 +214,8 @@
 
 - [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - automatically learns to block invisible trackers.
 
+- [Universal Bypass](https://universal-bypass.org/install) - circumvents sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)!
+
 - [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - Remove tracking elements from URLs.
 
 - [Canvas Blocker](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - Prevent HTML canvas element from generating a unique identification key to protect user's privacy.
