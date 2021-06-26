@@ -270,6 +270,8 @@
 
 ### Adblock Lists/Filters and Userscripts
 
+**Adblock lists:**
+
 - [Anti-adblock Killer](https://reek.github.io/anti-adblock-killer/)
 - [Fanboy Filters](https://www.fanboy.co.nz/filters.html)
 - [Fuck Fuck Adblock](https://github.com/bogachenko/fuckfuckadblock)
@@ -277,6 +279,9 @@
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)
 - [D3host List](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
 - [NoTracking Adblock List](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
+
+**Userscripts:**
+
 - [4Chan X](https://github.com/ccd0/4chan-x)
 - [Absolute Enable Right Click Copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
 - [Anti-Adware](https://greasyfork.org/en/scripts/4294-antiadware)
