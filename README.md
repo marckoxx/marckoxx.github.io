@@ -202,61 +202,71 @@
 
 ## Browser Extensions
 
-- [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - An efficient wide-spectrum content blocker (not just an adblocker) with CPU and memory efficiency as a primary feature.
+- [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) - An efficient wide-spectrum content blocker (not just an adblocker) with CPU and memory efficiency as a primary feature.
 
-- [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) - The alternative to the world's most popular userscript manager. (Apparently they don't recommend Tampermonkey)
+- [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) - The alternative to the world's most popular userscript manager. (Apparently they don't recommend Tampermonkey)
 
-- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Automatically use HTTPS security on many sites.
+- [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/) - Automatically use HTTPS security on many sites.
 
-- [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
+- [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/) - Protects you against tracking through "free", centralized, content delivery.
 
-- [LocalCDN](https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd) - Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.
+- [LocalCDN](https://chrome.google.com/webstore/detail/localcdn/njdfdhgcmkocbgbhcioffdbicglldapd) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) - Protects you against tracking through CDNs (Content Delivery Networks) by redirecting to local resources.
 
-- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - automatically learns to block invisible trackers.
+- [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) - automatically learns to block invisible trackers.
 
-- [Universal Bypass](https://universal-bypass.org/install) - circumvents sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)!
+- [Universal Bypass](https://universal-bypass.org/install) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/universal-bypass/) - circumvents sites which make you wait (like adf.ly), make you do something (e.g., show.co and sub2unlock.com) and even trackers (such as bit.ly and t.co)!
 
-- [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) - Remove tracking elements from URLs.
+- [ClearURLs](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Remove tracking elements from URLs.
 
-- [Canvas Blocker](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) - Prevent HTML canvas element from generating a unique identification key to protect user's privacy.
+- [Canvas Blocker](https://chrome.google.com/webstore/detail/canvas-blocker-fingerprin/nomnklagbgmgghhjidfhnoelnjfndfpd) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) - Prevent HTML canvas element from generating a unique identification key to protect user's privacy.
 
 - [Trace](https://chrome.google.com/webstore/detail/trace-online-tracking-pro/njkmjblmcfiobddjgebnoeldkjcplfjb) - An extension to stop multiple advanced tracking techniques employed by websites all over the web.
 
-- [CyDec Anti-Fingerprinting](https://chrome.google.com/webstore/detail/cydec-platform-anti-finge/becfjfjckdhngmmpkhakoknnkgpgfelk) - Stop trackers from accurately fingerprinting your system through obfuscation and deception.
+- [CyDec Anti-Fingerprinting](https://chrome.google.com/webstore/detail/cydec-platform-anti-finge/becfjfjckdhngmmpkhakoknnkgpgfelk) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/cydec-platform-antifingerprint/) - Stop trackers from accurately fingerprinting your system through obfuscation and deception.
 
-- [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) - Guard against CSS data exfiltration attacks.
+- [CSS Exfil Protection](https://chrome.google.com/webstore/detail/css-exfil-protection/ibeemfhcbbikonfajhamlkdgedmekifo) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/css-exfil-protection/) - Guard against CSS data exfiltration attacks.
 
-- [Terms of Service; Didn't Read](https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg) - Get information instantly about websites' terms of service and privacy policies.
+- [Terms of Service; Didn't Read](https://chrome.google.com/webstore/detail/terms-of-service-didn%E2%80%99t-r/hjdoplcnndgiblooccencgcggcoihigg) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/) - Get information instantly about websites' terms of service and privacy policies.
 
-- [Privacy Pass](https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi) - Client support for Privacy Pass anonymous authorization protocol.
+- [Privacy Pass](https://chrome.google.com/webstore/detail/privacy-pass/ajhmfdgkijocedmfjonnpjfojldioehi) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-pass/) - Client support for Privacy Pass anonymous authorization protocol.
 
-- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark mode for every website. (With some exceptions)
+- [Privacy Redirect](https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/) - Redirects Twitter, YouTube, Instagram and more to privacy friendly alternatives.
 
-- [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) - Allows you to easily install themes and skins for many popular sites. [Youtube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode)
+- [Keepass Tusk](https://chrome.google.com/webstore/detail/keepass-tusk-password-acc/fmhmiaejopepamlcjkncpgpdjichnecm) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/keepass-tusk/) - Readonly KeePass password database integration.
 
-- [Enhancer for Youtube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) - Take control of YouTube and boost your user experience!
+- [xBrowserSync](https://chrome.google.com/webstore/detail/xbrowsersync/lcbjdhceifofjlpecfpeimnnphbcjgnc) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/xbs/) - Sync bookmarks across your browsers and devices, no sign up required.
 
-- [Sponsorblock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - Skip sponsorships, subscription begging and more on YouTube videos.
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader) - Dark mode for every website. (With some exceptions)
 
-- [Adwhore for Youtube](https://chrome.google.com/webstore/detail/adwhorenet-for-youtube/emfkjghgdkajicmnicojahgojkemagcm) - Share and skip commercial video segments from YouTubers that sell your trust!
+- [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) - Allows you to easily install themes and skins for many popular sites. [Youtube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode)
 
-- [Social Fixer for Facebook](https://chrome.google.com/webstore/detail/social-fixer-for-facebook/ifmhoabcaeehkljcfclfiieohkohdgbb) - Lets you filter your news feed, hide things you don't want to see, and customize your FB experience.
+- [Enhancer for Youtube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) - Take control of YouTube and boost your user experience!
+
+- [Sponsorblock](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/) - Skip sponsorships, subscription begging and more on YouTube videos.
+
+- [Adwhore for Youtube](https://chrome.google.com/webstore/detail/adwhorenet-for-youtube/emfkjghgdkajicmnicojahgojkemagcm) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/adwhore-net/) - Share and skip commercial video segments from YouTubers that sell your trust!
+
+- [Social Fixer for Facebook](https://chrome.google.com/webstore/detail/social-fixer-for-facebook/ifmhoabcaeehkljcfclfiieohkohdgbb) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/socialfixer/) - Lets you filter your news feed, hide things you don't want to see, and customize your FB experience.
 
 - [Multiple Tools for Facebook](https://chrome.google.com/webstore/detail/multiple-tools-for-facebo/eojdckfcadamkapabechhbnkleligand) - A collection of automation tools.
 
-- [Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof) - Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.
+- [Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/save-page-we/) - Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.
 
-- [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) - Allows active content (Javascript) only for trusted domains of your choice to prevent exploitation.
+- [NoScript](https://chrome.google.com/webstore/detail/noscript/doojmbjmlfjjnbmnoijecmcbfeoakpjm) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - Allows active content (Javascript) only for trusted domains of your choice to prevent exploitation.
 
-- [Skip Redirect](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon) - Skip intermediary pages that some pages use before redirecting to a final page.
+- [Skip Redirect](https://chrome.google.com/webstore/detail/skip-redirect/jaoafjdoijdconemdmodhbfpianehlon) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/skip-redirect/) - Skip intermediary pages that some pages use before redirecting to a final page.
 
-- [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) - Automatically redirect content based on user-defined rules.
+- [Redirector](https://chrome.google.com/webstore/detail/redirector/ocgpenflpmgnfapjedencafcfakcekcd) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/redirector/) - Automatically redirect content based on user-defined rules.
 
-- [Popup Blocker (Strict)](https://chrome.google.com/webstore/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg) - Strictly block all popup requests from any website.
+- [Popup Blocker (Strict)](https://chrome.google.com/webstore/detail/popup-blocker-strict/aefkmifgmaafnojlojpnekbpbmjiiogg) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/popup-blocker/) - Strictly block all popup requests from any website.
 
-- [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - A cookie manager. You can add, delete, edit, search, protect and block cookies!
+- [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/etc2/) - A cookie manager. You can add, delete, edit, search, protect and block cookies!
   
-- [Smooth Key Scroll](https://chrome.google.com/webstore/detail/smooth-key-scroll/gphmhpfbknciemgfnfhjapilmcaecljh) - Enables smooth and responsive scrolling with the keyboard on every page.
+- [Smooth Key Scroll](https://chrome.google.com/webstore/detail/smooth-key-scroll/gphmhpfbknciemgfnfhjapilmcaecljh) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/yass-we/) - Enables smooth and responsive scrolling with the keyboard on every page.
+
+- [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/) - Translate your page in real time using Google or Yandex.
+
+- [Google search link fix](https://chrome.google.com/webstore/detail/google-search-link-fix/cekfddagaicikmgoheekchngpadahmlf) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/) - Prevents Google and Yandex search pages from modifying search result links when you click them.
 
 ### Adblock Lists/Filters and Userscripts
 
@@ -272,11 +282,23 @@
 - [Anti-Adware](https://greasyfork.org/en/scripts/4294-antiadware)
 - [Direct Links Out](https://greasyfork.org/en/scripts/15857-direct-links-out)
 - [GitHub Internationalization](https://greasyfork.org/en/scripts/407485-github-internationalization)
+- [GreasyFork Bullshit Filter](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
 - [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)
 - [Remove web limits(modified)](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified)
 - [Remove Youtube Ads(Works)](https://greasyfork.org/en/scripts/27199-remove-youtube-ads-works)
 - [Youtube Age Verification Bypass](https://greasyfork.org/en/scripts/375525-youtube-age-verification-bypass)
 - [RU AdList JS Fixes](https://greasyfork.org/en/scripts/19993-ru-adlist-js-fixes)
+- [YT redirect to Invidious on login request](https://greasyfork.org/en/scripts/407977-yt-redirect-to-invidious-on-login-request)
+- [Disable video autoplay in messenger](https://greasyfork.org/en/scripts/27000-disable-video-autoplay-in-messenger)
+- [Messenger Stop GIFs](https://blog.tomasbouda.cz/development/disable-gifs-on-messenger-com/)
+- [Greasyfork Search with Sleazyfork Results included](https://greasyfork.org/en/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
+- [Image Max URL](https://greasyfork.org/en/scripts/36662-image-max-url)
+- [Universal Bypass Additions](https://github.com/FireMasterK/BypassAdditions/blob/master/script.user.js)
+- [Maximize Video](https://greasyfork.org/en/scripts/4870-maximize-video)
+- [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button)
+- [Symbolab Pro](https://greasyfork.org/en/scripts/407459-symbolab-pro-unlock-full-steps-and-verify-solutions-for-free)
+- [Aternos anti-anti adblock](https://greasyfork.org/en/scripts/419726-aternos-anti-anti-adblock)
+- [Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2/code)
 
 ## Gaming
 
