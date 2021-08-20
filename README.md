@@ -273,12 +273,12 @@
 **Adblock lists:**
 
 - [Anti-adblock Killer](https://reek.github.io/anti-adblock-killer/)
-- [Fanboy Filters](https://www.fanboy.co.nz/filters.html)
 - [Fuck Fuck Adblock](https://github.com/bogachenko/fuckfuckadblock)
 - [OISD](https://oisd.nl/?p=dl)
+- [Fanboy Filters](https://www.fanboy.co.nz/filters.html)
+- [NoTracking Adblock List](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)
 - [D3host List](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
-- [NoTracking Adblock List](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
 
 **Userscripts:**
 
@@ -298,7 +298,7 @@
 - [Messenger Stop GIFs](https://blog.tomasbouda.cz/development/disable-gifs-on-messenger-com/)
 - [Greasyfork Search with Sleazyfork Results included](https://greasyfork.org/en/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
 - [Image Max URL](https://greasyfork.org/en/scripts/36662-image-max-url)
-- [Universal Bypass Additions](https://github.com/FireMasterK/BypassAdditions/blob/master/script.user.js)
+- [Universal Bypass Additions](https://github.com/FireMasterK/BypassAdditions/raw/master/script.user.js)
 - [Maximize Video](https://greasyfork.org/en/scripts/4870-maximize-video)
 - [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button)
 - [Symbolab Pro](https://greasyfork.org/en/scripts/407459-symbolab-pro-unlock-full-steps-and-verify-solutions-for-free)
@@ -329,9 +329,12 @@
 
 - [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks
 
+**Recommended programs:**
+
+- []()
+
 ## Android
 
 ## Youtube Channels
 
 ## Miscellaneous
-
