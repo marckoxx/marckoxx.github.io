@@ -246,6 +246,8 @@
 
 - [Adwhore for Youtube](https://chrome.google.com/webstore/detail/adwhorenet-for-youtube/emfkjghgdkajicmnicojahgojkemagcm) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/adwhore-net/) - Share and skip commercial video segments from YouTubers that sell your trust!
 
+- [Social Tools](https://chrome.google.com/webstore/detail/social-tools/llbdoljkknpjgfcnbnoiehjcgancpjmd?hl=en) - Provides useful utilities for users of social networks: Facebook, Messenger, Instagram, and Reddit.
+
 - [Social Fixer for Facebook](https://chrome.google.com/webstore/detail/social-fixer-for-facebook/ifmhoabcaeehkljcfclfiieohkohdgbb) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/socialfixer/) - Lets you filter your news feed, hide things you don't want to see, and customize your FB experience.
 
 - [Multiple Tools for Facebook](https://chrome.google.com/webstore/detail/multiple-tools-for-facebo/eojdckfcadamkapabechhbnkleligand) - A collection of automation tools.
