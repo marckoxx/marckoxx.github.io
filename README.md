@@ -174,11 +174,11 @@
 
 - [My Anime List Seasonal Anime](https://myanimelist.net/anime/season) - Same as above. (But I didn't like the new layout)
 
-- [Gogoanime](https://www1.gogoanime.ai/) - Classic look, has ads, huge library.
+- [Gogoanime](https://www1.gogoanime.cm/) - Classic look, has ads, huge library.
 
 - [9anime](https://9anime.to/) - Modern look, has ads, sometimes captcha, huge library.
 
-- [Manganelo](https://manganelo.com/) - My preferred reading site.
+- [Manganato (Formerly Manganelo)](https://manganato.com/) - My preferred reading site.
 
 - [Mangafast](https://mangafast.net/) - My second preferred reading site.
 
@@ -186,9 +186,15 @@
 
 - [charVANder Tensura Edited MTLs](https://drive.google.com/drive/u/0/mobile/folders/14LqRkU1ayeIYi8MaKInDVF5LdqwVqehC) - Edited Machine Translations of That Time I was Reincarnated as a Slime's Light Novel. (If you can't wait for the full fan translations)
 
+- [Tensurafan Slime Reader](https://tensurafan.github.io/) / [Blog](https://tensurafan.home.blog/) - Website to read tensura fan TLs
+
+- [Classroom of the Elite ConfusedTLs](https://confusedtls.wordpress.com/youkoso-jitsuroku/) - Superior COTE LN translations
+
 - [Learn Hiragana](https://www.tofugu.com/japanese/learn-hiragana/) - Memorize Hiragana in hours or days, not months or years.
 
 - [Learn Katakana](https://www.tofugu.com/japanese/learn-katakana/) - Same as above but with Katakana.
+
+- [Kakugo](https://f-droid.org/packages/org.kaqui/) - useful app for learning japanese. Memorized hiragana and katakana in 8 hours the first time I used it.
 
 ### Tech Stuff
 
@@ -260,7 +266,7 @@
 
 - [Social Fixer for Facebook](https://chrome.google.com/webstore/detail/social-fixer-for-facebook/ifmhoabcaeehkljcfclfiieohkohdgbb) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/socialfixer/) - Lets you filter your news feed, hide things you don't want to see, and customize your FB experience.
 
-- [Multiple Tools for Facebook](https://chrome.google.com/webstore/detail/multiple-tools-for-facebo/eojdckfcadamkapabechhbnkleligand) - A collection of automation tools.
+- [L.O.C. (Formerly Multiple Tools for Facebook)](https://chrome.google.com/webstore/detail/loc/eojdckfcadamkapabechhbnkleligand) - A collection of automation tools for Facebook.
 
 - [Save Page WE](https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/save-page-we/) - Save a complete web page (as curently displayed) as a single HTML file that can be opened in any browser.
 
@@ -280,6 +286,10 @@
 
 - [Google search link fix](https://chrome.google.com/webstore/detail/google-search-link-fix/cekfddagaicikmgoheekchngpadahmlf) / [firefox](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/) - Prevents Google and Yandex search pages from modifying search result links when you click them.
 
+- [Don't Close Window With Last Tab](https://chrome.google.com/webstore/detail/dont-close-window-with-la/dlnpfhfhmkiebpnlllpehlmklgdggbhn) - Prevent closing of Google Chrome with the last tab, the least intrusive way.
+
+- [F.B.(FluffBusting)Purity](https://chrome.google.com/webstore/detail/fbfluffbustingpurity/nmkinhboiljjkhaknpaeaicmdjhagpep) - F.B. Purity cleans up and customises Facebook, letting you filter out the junk you dont want to see
+
 ### Adblock Lists/Filters and Userscripts
 
 **Adblock lists:**
@@ -298,26 +308,25 @@
 
 - [4Chan X](https://github.com/ccd0/4chan-x)
 - [Absolute Enable Right Click Copy](https://greasyfork.org/en/scripts/23772-absolute-enable-right-click-copy)
-- [Anti-Adware](https://greasyfork.org/en/scripts/4294-antiadware)
+- [Anti-Adware](https://raw.githubusercontent.com/Sak32009/AntiAdware/master/sak32009-antiadware.user.js)
 - [Direct Links Out](https://greasyfork.org/en/scripts/15857-direct-links-out)
 - [GitHub Internationalization](https://greasyfork.org/en/scripts/407485-github-internationalization)
 - [GreasyFork Bullshit Filter](https://greasyfork.org/en/scripts/12179-greasyfork-bull-filter)
 - [HTML5 video player enhanced script](https://greasyfork.org/en/scripts/381682-html5%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8%E5%A2%9E%E5%BC%BA%E8%84%9A%E6%9C%AC)
 - [Remove web limits(modified)](https://greasyfork.org/en/scripts/28497-remove-web-limits-modified)
 - [Remove Youtube Ads(Works)](https://greasyfork.org/en/scripts/27199-remove-youtube-ads-works)
-- [Youtube Age Verification Bypass](https://greasyfork.org/en/scripts/375525-youtube-age-verification-bypass)
 - [RU AdList JS Fixes](https://greasyfork.org/en/scripts/19993-ru-adlist-js-fixes)
 - [YT redirect to Invidious on login request](https://greasyfork.org/en/scripts/407977-yt-redirect-to-invidious-on-login-request)
 - [Disable video autoplay in messenger](https://greasyfork.org/en/scripts/27000-disable-video-autoplay-in-messenger)
 - [Messenger Stop GIFs](https://blog.tomasbouda.cz/development/disable-gifs-on-messenger-com/)
 - [Greasyfork Search with Sleazyfork Results included](https://greasyfork.org/en/scripts/23840-greasyfork-search-with-sleazyfork-results-include)
-- [Image Max URL](https://greasyfork.org/en/scripts/36662-image-max-url)
+- [Image Max URL](https://raw.githubusercontent.com/qsniyg/maxurl/master/userscript.user.js)
 - [Universal Bypass Additions](https://github.com/FireMasterK/BypassAdditions/raw/master/script.user.js)
 - [Maximize Video](https://greasyfork.org/en/scripts/4870-maximize-video)
 - [Sci-hub button](https://greasyfork.org/en/scripts/370246-sci-hub-button)
 - [Symbolab Pro](https://greasyfork.org/en/scripts/407459-symbolab-pro-unlock-full-steps-and-verify-solutions-for-free)
 - [Aternos anti-anti adblock](https://greasyfork.org/en/scripts/419726-aternos-anti-anti-adblock)
-- [Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2/code)
+- [Twitch Ad-Blocker-2](https://greasyfork.org/en/scripts/419066-twitch-ad-blocker-2)
 
 ## Gaming
 
@@ -348,8 +357,18 @@ You won't ever need anything else for PC maintenance.
 
 **Recommended programs:**
 
+***SEE BOTTOM OF THE PAGE***
+
 ## Android
+
+- [Cloudstream](https://github.com/LagradOst/CloudStream-3) - Best app to stream/download movies, tv series, and anime. Has multiple sources.
+
+- [Youtube Vanced](https://vancedapp.com/) - BEST Youtube client. If you're not using it wtf are you doing with your life. Includes adblocking, background and PiP play, SponsorBlock, true amoled dark mode and a lot more.
+
+- [Newpipe x Sponsorblock](https://github.com/polymorphicshade/NewPipe) - No account needed and can download video, audio, and subtitles.
 
 ## Youtube Channels
 
 ## Miscellaneous
+
+![FWT Recommended apps](https://desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
