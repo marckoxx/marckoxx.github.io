@@ -116,6 +116,8 @@
 
 - [r/TechSupport Malware Removal Guide](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Highly recommended to read and bookmark.
 
+- Common Sense™️, default AV *i.e. Windows Defender* (Don't install 3rd party bloatshit)
+
 ## App Repositories
   
 ## Android App Stores
@@ -144,6 +146,14 @@
 
 - [Monkeytype](https://monkeytype.com/) - A minimalistic, customizable typing website.
 
+- [Temp mail](https://smailpro.com/tool/temp-mail)
+
+- [Edu temp mail (chinese)](https://mail.mjj.edu.ge/)
+
+- [Edu temp mail](https://10minutesemail.net/)
+
+- [Teamdrive Generator](https://td.msgsuite.workers.dev/)
+  
 ### Audio stuff
 
 - [Hikari no Akari OST](https://hikarinoakari.com/) - Download Japanese music. (Usually Anime OSTs and seiyuu music)
@@ -274,13 +284,15 @@
 
 **Adblock lists:**
 
-- [Anti-adblock Killer](https://reek.github.io/anti-adblock-killer/)
 - [Fuck Fuck Adblock](https://github.com/bogachenko/fuckfuckadblock)
 - [OISD](https://oisd.nl/?p=dl)
 - [Fanboy Filters](https://www.fanboy.co.nz/filters.html)
 - [NoTracking Adblock List](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt)
 - [Web Annoyances Ultralist](https://github.com/yourduskquibbles/webannoyances)
 - [D3host List](https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt)
+- [Goodbye Ads](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt)
+- [Goodbye Ads - Youtube](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt)
+- [Mahakala.is](https://adblock.mahakala.is/)
 
 **Userscripts:**
 
@@ -331,9 +343,10 @@
 
 - [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks
 
-**Recommended programs:**
+- [Pegasun Utilities](https://pegasun.com/system-utilities) - System Utilities will speed up, clean, repair, and secure your PC in 1-Click.
+You won't ever need anything else for PC maintenance.
 
-- []()
+**Recommended programs:**
 
 ## Android
 
