@@ -26,7 +26,6 @@
   - [General Tools or Guides](#general-tools-or-guides)
   - [Windows](#windows)
   - [Android](#android)
-  - [Youtube Channels](#youtube-channels)
   - [Miscellaneous](#miscellaneous)
 
 ## Wikis/Megathreads/Awesome Github Repos
@@ -198,8 +197,6 @@
 
 ### Tech Stuff
 
-- [Hacking Collection Index](http://index-of.co.uk/Hacking-Coleccion/) - Browse at your own risk.
-
 - [PH Corner](https://phcorner.net/) - PH-based useful forum for tech topics.
 
 - [PISO VPN](https://www.pisovpn.com/)
@@ -346,29 +343,51 @@
 
 ## Windows
 
-- [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) - All-In-One Repack for latest Microsoft Visual C++ Redistributable Runtimes, without the original setup bloat payload.
+- [Techbench ISOs](https://tb.rg-adguard.net/public.php) - Get your windows and office ISOs here.
 
-- [Privatezilla](https://github.com/builtbybel/privatezilla#download) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
-
-- [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A PowerShell module for Windows 10 fine-tuning and automating the routine tasks
-
-- [Pegasun Utilities](https://pegasun.com/system-utilities) - System Utilities will speed up, clean, repair, and secure your PC in 1-Click.
-You won't ever need anything else for PC maintenance.
+- [How to Remove the Folders From “This PC” on Windows 10](https://www.howtogeek.com/222057/how-to-remove-the-folders-from-%E2%80%9Cthis-pc%E2%80%9D-on-windows-10)
+  
+- [Disable Windows Defender](https://www.majorgeeks.com/content/page/remove_windows_defender_from_windows_10_and_windows_8_1.html)
 
 **Recommended programs:**
 
-***SEE BOTTOM OF THE PAGE***
+- [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO/raw/master/KMS_VL_ALL_AIO.cmd) - Right click this link and save as KMS_VL_ALL_AIO.cmd. The BEST windows and office activator.
+
+- [QuickBoost](https://github.com/SanGraphic/QuickBoost) - My first goto windows 10 tweaking utility.
+  
+- [Privatezilla](https://github.com/builtbybel/privatezilla#download) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
+
+- [Pegasun Utilities](https://pegasun.com/system-utilities) - System Utilities will speed up, clean, repair, and secure your PC in 1-Click. (I only use this to turn off services)
+
+- [Optimizer](https://github.com/hellzerg/optimizer) - Program for optimizing. Duh.
+
+- [Privacy.sexy](https://privacy.sexy/) - Multiple scripts for privacy, security, debloating, and performance tweaks.
+  
+- [SophiApp](https://github.com/Sophia-Community/SophiApp) - The most powerful open source tweaker for fine-tuning Windows 10 & Windows 11. The next chapter of the Sophia Script project.
+
+- [7zip](https://www.7-zip.org/download.html) - My choice for archive management.
+
+- [VisualCppRedist AIO](https://github.com/abbodi1406/vcredist) - All-In-One Repack for latest Microsoft Visual C++ Redistributable Runtimes, without the original setup bloat payload.
+  
+- [QBittorrent](https://www.qbittorrent.org/download.php) - Don't bother with other torrent clients. Except deluge I guess.
+  
+- [JPEGView](https://github.com/sylikc/jpegview) - Best image viewer.
+  
+- [MusicBee](https://getmusicbee.com/downloads/) - The ultimate music player
+  
+- [VLC](https://www.videolan.org/vlc/download-windows.html) or [MPV](https://mpv.io/installation/) - My choice of video players
+
+
+[OTHERS: SEE BOTTOM OF THE PAGE](#miscellaneous)
 
 ## Android
 
 - [Cloudstream](https://github.com/LagradOst/CloudStream-3) - Best app to stream/download movies, tv series, and anime. Has multiple sources.
 
-- [Youtube Vanced](https://vancedapp.com/) - BEST Youtube client. If you're not using it wtf are you doing with your life. Includes adblocking, background and PiP play, SponsorBlock, true amoled dark mode and a lot more.
+- [Youtube Vanced](https://vancedapp.com/) (RIP GOAT) - BEST Youtube client. If you're not using it wtf are you doing with your life. Includes adblocking, background and PiP play, SponsorBlock, true amoled dark mode and a lot more. It was discontinued so yeah...
 
 - [Newpipe x Sponsorblock](https://github.com/polymorphicshade/NewPipe) - No account needed and can download video, audio, and subtitles.
 
-## Youtube Channels
-
 ## Miscellaneous
-
+Friendly Windows Thread Recommended apps (A bit outdated but still good nonetheless)
 ![FWT Recommended apps](https://desu-usergeneratedcontent.xyz/g/image/1562/46/1562467997749.png)
